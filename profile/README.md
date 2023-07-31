@@ -24,7 +24,7 @@
 ## 👨‍👩‍👧‍👦 팀원
 
 백한결|전서진|이경은|조승연|양소연|임지훈
------|-----|-----|-----|-----|-----|
+------|------|------|------|------|-----|
 ![백한결](https://github.com/2023-Summer-Bootcamp-Team-K/.github/assets/127572801/fe5a3d0b-144c-42c8-8268-745c1739ebcc) | ![전서진](https://github.com/2023-Summer-Bootcamp-Team-K/.github/assets/127572801/c620ffde-9f95-4edb-a7d5-41b2b86981f5) | ![이경은](https://github.com/2023-Summer-Bootcamp-Team-K/.github/assets/127572801/76b4dc56-d8ed-4dc7-b883-24f14e075ba5) | ![조승연](https://github.com/2023-Summer-Bootcamp-Team-K/.github/assets/127572801/12e4eee1-a546-4f5f-8bb8-e497c91c6f19) | ![양소연](https://github.com/2023-Summer-Bootcamp-Team-K/.github/assets/127572801/7fe34432-c3b3-4261-af43-d559e6f1af3f) | ![임지훈](https://github.com/2023-Summer-Bootcamp-Team-K/.github/assets/127572801/3d1b191a-c614-4a51-9b1a-c9230e94cd3d) |
 Leader, Back-end Developer, DevOps|Front-end Developer|Front-end Developer|Front-end Developer|Back-end Developer, DevOps|Back-end Developer, DevOps|
 
