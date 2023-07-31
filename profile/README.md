@@ -23,7 +23,7 @@
 
 백한결|전서진|이경은|조승연|양소연|임지훈
 -----|-----|-----|-----|-----|-----|
-이미지|이미지|이미지|이미지|이미지|이미지|이미지|
+이미지|![고냥이](https://github.com/2023-Summer-Bootcamp-Team-K/.github/assets/127572801/fc434eb4-52d4-42c7-bafd-99a1ddd38cf0)|이미지|이미지|이미지|이미지|이미지|
 Leader, Back-end Developer, DevOps|Front-end Developer|Front-end Developer|Front-end Developer|Back-end Developer, DevOps|Back-end Developer, DevOps|
 
 
