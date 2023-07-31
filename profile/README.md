@@ -1,4 +1,4 @@
-## Project Name 🐶
+## 🐶 Project Name 
 Fit-A-Pet
 
 
