@@ -1,10 +1,10 @@
 ## 🐶 Project Name 
-Fit-A-Pet
+<strong> Fit-A-Pet </strong>
 
 ## 👩‍💻Topic
 반려 동물의 혈당 데이터를 통한 사료 추천 시스템
 
-## 🎥 데모영상
+## 🎥 Demo
 
 
 
