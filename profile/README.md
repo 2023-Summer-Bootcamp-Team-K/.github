@@ -22,7 +22,6 @@
 
 ## 🖥️ Monitoring
 
-Filebeat + Logstash + ElasticSearch + Kibana 연동, ELK, K6 부하테스트
 
  K6 부하테스트 | Node-Exporter |
 ---------------|---------------|
