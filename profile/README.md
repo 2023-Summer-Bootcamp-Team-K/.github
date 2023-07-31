@@ -23,7 +23,6 @@
 
 ## 🖥️ Monitoring
 
-------|------|
  K6 부하테스트 | Node-Exporter |
 ![k6부하테스트](https://github.com/2023-Summer-Bootcamp-Team-K/.github/assets/137742302/fbef9dc6-1e41-435e-a7eb-72e549165054)|
 ![Node-Exporter](https://github.com/2023-Summer-Bootcamp-Team-K/.github/assets/137742302/e286f841-6e3b-4567-bd6e-feeea75d0ae4)|
