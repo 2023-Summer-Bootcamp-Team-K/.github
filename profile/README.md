@@ -20,6 +20,12 @@
 
 <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/amazonaws-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"> <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white"> <img src="https://img.shields.io/badge/amazons3-DD344C?style=for-the-badge&logo=amazons3&logoColor=white">
 
+## 🖥️ Monitoring
+
+------|------|
+ K6 부하테스트 | Node-Exporter |
+(https://github.com/2023-Summer-Bootcamp-Team-K/.github/assets/137742302/b665fe72-2880-4f3e-8560-12b6375674ed)|
+(https://github.com/2023-Summer-Bootcamp-Team-K/.github/assets/137742302/eb71d4c9-8cd4-40f4-a4da-a31396c17f67)|
 
 
 ## 👨‍👩‍👧‍👦 팀원
