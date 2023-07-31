@@ -1,8 +1,15 @@
 ## 🐶 Project Name 
 Fit-A-Pet
 
+## 👩‍💻Topic
+반려 동물의 혈당 데이터를 통한 사료 추천 시스템
+
+
 ## 📐 System Architecture
 ![시스템 아키텍쳐](https://github.com/2023-Summer-Bootcamp-Team-K/.github/assets/127572801/cb5102f7-111d-425c-9885-20eeed208a7d)
+
+
+
 
 <!--
 
