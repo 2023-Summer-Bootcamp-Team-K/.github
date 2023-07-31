@@ -26,7 +26,7 @@
 
  K6 부하테스트 | Node-Exporter |
  ------|------|
-(https://github.com/2023-Summer-Bootcamp-Team-K/.github/assets/137742302/b665fe72-2880-4f3e-8560-12b6375674ed)| (https://github.com/2023-Summer-Bootcamp-Team-K/.github/assets/137742302/eb71d4c9-8cd4-40f4-a4da-a31396c17f67)|
+ 이미지 | 이미지 |
 
 
 ## 👨‍👩‍👧‍👦 팀원
