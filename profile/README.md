@@ -27,6 +27,12 @@
 ---------------|---------------|
 ![k6부하테스트](https://github.com/2023-Summer-Bootcamp-Team-K/.github/assets/137742302/fbef9dc6-1e41-435e-a7eb-72e549165054)| ![Node-Exporter](https://github.com/2023-Summer-Bootcamp-Team-K/.github/assets/137742302/e286f841-6e3b-4567-bd6e-feeea75d0ae4)|
 
+ Django 서버 로깅 | Nginx 로깅 |
+---------------|---------------|
+![Nginx-loging](https://github.com/2023-Summer-Bootcamp-Team-K/.github/assets/137742302/26e59dcf-b5c1-474a-8959-24c347d5051c))| ![Django-logging](https://github.com/2023-Summer-Bootcamp-Team-K/.github/assets/137742302/f633af9b-5cda-4aa2-a938-88417b9183c6)|
+
+
+
 
 
 ## 👨‍👩‍👧‍👦 팀원
