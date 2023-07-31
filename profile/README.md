@@ -16,7 +16,7 @@
 백한결|전서진|이경은|조승연|양소연|임지훈
 -----|-----|-----|-----|-----|-----|
 이미지|이미지|이미지|이미지|이미지|이미지|이미지|
-Leader,Back-end Developer, DevOps|Front-end Developer|Front-end Developer|Front-end Developer|Back-end Developer,DevOps|Back-end Developer,DevOps|
+Leader,Back-end Developer, DevOps|Front-end Developer|Front-end Developer|Front-end Developer|Back-end Developer, DevOps|Back-end Developer, DevOps|
 
 
 
