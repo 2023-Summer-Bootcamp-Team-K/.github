@@ -37,8 +37,8 @@
 
 ## 👨‍👩‍👧‍👦 팀원
 
-백한결|양소연|임지훈|전서진|이경은|조승연|
-------|------|------|------|------|-----|
+백한결|양소연|임지훈|[전서진](https://github.com/seojinJeon)|이경은|조승연|
+------|------|------|--------------------------------------|------|-----|
 ![백한결](https://github.com/2023-Summer-Bootcamp-Team-K/.github/assets/127572801/fe5a3d0b-144c-42c8-8268-745c1739ebcc) | ![양소연](https://github.com/2023-Summer-Bootcamp-Team-K/.github/assets/127572801/35e6453b-85f2-46e1-b68a-1ddfdf278a19) | ![임지훈 (2)](https://github.com/2023-Summer-Bootcamp-Team-K/.github/assets/127572801/07732ff1-fbb6-4292-9c52-eb2408b16fc4) | ![전서진](https://github.com/2023-Summer-Bootcamp-Team-K/.github/assets/127572801/c620ffde-9f95-4edb-a7d5-41b2b86981f5) | ![이경은](https://github.com/2023-Summer-Bootcamp-Team-K/.github/assets/127572801/76b4dc56-d8ed-4dc7-b883-24f14e075ba5) | ![조승연 (2)](https://github.com/2023-Summer-Bootcamp-Team-K/.github/assets/127572801/710751a4-44a7-452e-98e7-343b9d6f9bb3) | 
 Leader, Back-end Developer, DevOps|Back-end Developer, DevOps|Back-end Developer, DevOps|Front-end Developer|Front-end Developer|Front-end Developer|
 
