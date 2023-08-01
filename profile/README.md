@@ -44,7 +44,11 @@ Leader, Back-end Developer, DevOps|Back-end Developer, DevOps|Back-end Developer
 
 ## 💡 How to Run
 
-####Clone Repository
+### Clone Repository
+
+```bash
+git clone https://github.com/2023-Summer-Bootcamp-Team-K/docker.git
+```
 
 <!--
 
