@@ -48,12 +48,30 @@ Leader, Back-end Developer, DevOps|Back-end Developer, DevOps|Back-end Developer
 
 ## 💡 How to Run
 
-### Clone Repository
+### Installation
 
+#### 서버 시작하기
+
+Backend config/.env
 ```bash
-git clone https://github.com/2023-Summer-Bootcamp-Team-K/docker.git
+DJANGO SECRET KEY=
+DJANGO_PASSWORD=
 ```
 
+```bash
+$ git clone https://github.com/2023-Summer-Bootcamp-Team-K/docker.git
+$ cd docker/frontend
+$ flutter pub get
+$ flutter doctor
+$ flutter run
+```
+
+#### 개발 서버 시작하기
+```bash
+$ git clone https://github.com/2023-Summer-Bootcamp-Team-K/docker.git
+$ git submodule update --recursive --remote --init 
+$ docker-compose -f docker-compose-dev.yml up -d
+```
 <!--
 
 **Here are some ideas to get you started:**
