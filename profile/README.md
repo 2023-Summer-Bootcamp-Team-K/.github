@@ -73,7 +73,8 @@
 Redis 캐싱 전 | Redis 캐싱 후 |
 ---------------|---------------|
 ![Redis전](https://github.com/2023-Summer-Bootcamp-Team-K/.github/assets/137742302/e456e2c2-9f8b-4da4-821a-11943eeface2)| ![Redis후](https://github.com/2023-Summer-Bootcamp-Team-K/.github/assets/137742302/f3dba902-c2aa-419a-93a5-c6aceeb162b8)|
-198ms에서 4ms까지 시간을 단축 -> 속도 개선 및 서버비용 절약
+
+- 198ms에서 4ms까지 시간을 단축 -> 속도 개선 및 서버비용 절약
 
 
 
