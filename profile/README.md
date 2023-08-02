@@ -72,6 +72,10 @@
 ---------------|---------------|
 ![Django-logging](https://github.com/2023-Summer-Bootcamp-Team-K/.github/assets/137742302/f633af9b-5cda-4aa2-a938-88417b9183c6)|![Nginx-loging](https://github.com/2023-Summer-Bootcamp-Team-K/.github/assets/137742302/26e59dcf-b5c1-474a-8959-24c347d5051c)|
 
+Redis 캐싱 전 | Redis 캐싱 후 |
+---------------|---------------|
+![Redis전](https://github.com/2023-Summer-Bootcamp-Team-K/.github/assets/137742302/e456e2c2-9f8b-4da4-821a-11943eeface2)| ![Redis후](https://github.com/2023-Summer-Bootcamp-Team-K/.github/assets/137742302/f3dba902-c2aa-419a-93a5-c6aceeb162b8)|
+
 
 
 
