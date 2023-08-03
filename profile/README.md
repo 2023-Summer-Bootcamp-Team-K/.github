@@ -1,15 +1,15 @@
-## 🐶 Project Name 
+# 🐶 Project Name 
 <strong><h3>Fit-A-Pet </h3></strong>
 
-## 👩‍💻Topic
+# 👩‍💻Topic
 <h4>반려 동물의 혈당 데이터를 통한 사료 추천 시스템</h4>
 
-## ✨Medium
+# ✨Medium
 
 - [🇺🇸 Medium English.ver](https://medium.com/@ljh01051826177/fit-a-pet-ba7eb469753c)<br>
 - [🇰🇷 Medium Korean.ver](https://medium.com/@chsg0321/fit-a-pet-aee8d4b6a3f4)
 
-## 🎥 Demo
+# 🎥 Demo
 
 - [YouTube](https://www.youtube.com/watch?v=xbX8Dx5u6nE) <br>
 
@@ -26,11 +26,11 @@ Chart Analysis page|Feed Recommendation Page|
 <img width="300" alt="chart" src="https://www.imageconvert.org/uploads/chart_gif1691071450.gif">|<img width="300" alt="chart" src="https://www.imageconvert.org/uploads/_gif1691075403.gif">|
 
 
-## 📐 System Architecture
+# 📐 System Architecture
 ![아키텍쳐](https://github.com/2023-Summer-Bootcamp-Team-K/.github/assets/127572801/c3ea26f7-c496-4bba-9e6c-d765a8f34862)
 
 
-## 🔧Tech Stack
+# 🔧Tech Stack
 
 <p align="center">
 <strong> Frontend <br></strong>
@@ -71,12 +71,11 @@ Chart Analysis page|Feed Recommendation Page|
 
 
  
-## 📍API
+# 📍API
 ![API](https://github.com/2023-Summer-Bootcamp-Team-K/.github/assets/127572801/390803e9-6af7-4c6b-bcbd-b6c0ad36b456)
 
 
-## 🖥️ Monitoring
-
+# 🖥️ Monitoring
 
  K6 부하테스트 | Node-Exporter |
 ---------------|---------------|
@@ -94,7 +93,7 @@ Redis 캐싱 전 | Redis 캐싱 후 |
 
 
 
-## 💡 How to Run
+# 💡 How to Run
 
 ### Installation
 
@@ -137,7 +136,7 @@ GOOGLE_PASSWORD =
 $ docker-compose up --d
 ```
 
-## 📂 Directory Structure
+# 📂 Directory Structure
 <details>
 <summary>자세히 보기(Frontend)</summary>
 <div>
@@ -307,7 +306,7 @@ $ docker-compose up --d
 </div>
 </details>
 
-## 👨‍👩‍👧‍👦 팀원
+# 👨‍👩‍👧‍👦 팀원
 
 [백한결](https://github.com/baekhangyeol)|[양소연](https://github.com/Xoeon)|[임지훈](https://github.com/limjihoon99)|[전서진](https://github.com/seojinJeon)|[이경은](https://github.com/kyungeunlee07)|[조승연](https://github.com/moanuna)|
 ------|------|------|--------------------------------------|------|-----|
