@@ -21,7 +21,7 @@ Splash Screen|
 
 Pet Infomation Page|Pet Create Page|
 -------------------|---------------|
- <img width="470" alt="d" src="https://www.imageconvert.org/uploads/pet_info1691068229.gif">|  <img width="470" alt="d" src="https://www.imageconvert.org/uploads/_%EB%8D%B0%EB%AA%A8%EC%98%81%EC%83%81_AdobeExpress1691067863.gif"> |
+ <img width="300" alt="d" src="https://www.imageconvert.org/uploads/pet_info1691068229.gif">|  <img width="300" alt="d" src="https://www.imageconvert.org/uploads/pet_create1691068632.gif">  |
 
 https://www.imageconvert.org/uploads/pet_info1691068229.gif
 
