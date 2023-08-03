@@ -17,7 +17,7 @@
 ![splash](https://github.com/2023-Summer-Bootcamp-Team-K/.github/assets/127572801/53df012f-a147-4e75-bd0f-839160416968)
 
 - Pet Infomation Page <br>
-![핏어펫_데모영상_AdobeExpress](https://github.com/2023-Summer-Bootcamp-Team-K/.github/assets/127572801/17db0b30-dfb4-466f-8f1b-a9c29081709e)
+![핏어펫_데모영상_AdobeExpress (1)](https://github.com/2023-Summer-Bootcamp-Team-K/.github/assets/127572801/d1702fc7-6f25-4c6a-9e6d-3915b97a733d)
 
 ## 📐 System Architecture
 ![시스템 아키텍쳐](https://github.com/2023-Summer-Bootcamp-Team-K/.github/assets/127572801/cb5102f7-111d-425c-9885-20eeed208a7d)
