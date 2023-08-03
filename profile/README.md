@@ -1,7 +1,7 @@
 # 🐶 Fit-A-Pet
 <h3>반려 동물의 혈당 데이터를 통한 사료 추천 시스템<br></strong></h3>
 
-# ✨Medium
+# ✨ Medium
 
 - [🇺🇸 Medium English.ver](https://medium.com/@ljh01051826177/fit-a-pet-ba7eb469753c)<br>
 - [🇰🇷 Medium Korean.ver](https://medium.com/@ljh01051826177/fit-a-pet-%ED%98%88%EB%8B%B9-%EB%B6%84%EC%84%9D%EC%9D%84-%EA%B8%B0%EB%B0%98%EC%9C%BC%EB%A1%9C-%ED%95%9C-%EB%B0%98%EB%A0%A4%EB%8F%99%EB%AC%BC-%EC%82%AC%EB%A3%8C-%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C-980cf430d620)
