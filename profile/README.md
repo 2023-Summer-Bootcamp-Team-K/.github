@@ -164,6 +164,7 @@ $ docker-compose up --d
 <summary>자세히 보기(Frontend)</summary>
 <div>
 
+```bash
 📦lib
  ┣ 📂components
  ┃ ┣ 📜info_card.dart
@@ -187,6 +188,7 @@ $ docker-compose up --d
  ┣ 📜constant.dart
  ┣ 📜main.dart
  ┗ 📜profile_pic.dart
+```
 
 </div>
 </details>
@@ -195,6 +197,7 @@ $ docker-compose up --d
 <summary>자세히 보기(Backend)</summary>
 <div>
 
+```bash
 📦backend
  ┣ 📂codeNumber
  ┃ ┣ 📂migrations
@@ -322,6 +325,7 @@ $ docker-compose up --d
  ┣ 📜dump.rdb
  ┣ 📜manage.py
  ┗ 📜requirements.txt
+```
 <!--
 
 **Here are some ideas to get you started:**
