@@ -17,17 +17,16 @@
 
 Splash Screen|
 -------------|
- <img width="300" alt="d" src="https://www.imageconvert.org/uploads/splash_gif1691070542.gif">|
+<img width="300" alt="d" src="https://www.imageconvert.org/uploads/splash_gif1691070542.gif">|
 
 Pet Infomation Page|
 -------------------|
- <img width="300" alt="d" src="https://www.imageconvert.org/uploads/%20%EC%84%A0%ED%83%9D_gif1691070315.gif">|
+<img width="300" alt="d" src="https://www.imageconvert.org/uploads/%20%EC%84%A0%ED%83%9D_gif1691070315.gif">|
 
  
 Alarm page|
 ----------|
- <img width="300" alt="d" src="https://www.imageconvert.org/uploads/_gif1691070712.gif">|
-
+<img width="300" alt="d" src="https://www.imageconvert.org/uploads/_gif%20(1)1691070902.gif">|
 
 ## 📐 System Architecture
 ![시스템 아키텍쳐](https://github.com/2023-Summer-Bootcamp-Team-K/.github/assets/127572801/cb5102f7-111d-425c-9885-20eeed208a7d)
