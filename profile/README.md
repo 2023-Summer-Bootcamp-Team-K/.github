@@ -33,8 +33,7 @@ Alarm page|
 
 Chart page|
 ----------|
-<img width="300" alt="d" src="https://www.imageconvert.org/uploads/chart_gif1691071450.gif">|
-
+<img width="300" alt="d" src="https://www.imageconvert.org/uploads/9%EC%B4%881691072735.gif">|
 
 
 
