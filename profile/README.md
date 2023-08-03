@@ -1,8 +1,8 @@
 # 🐶 Project Name 
-<strong><h3>Fit-A-Pet </h3></strong>
+<strong><h2>Fit-A-Pet </h2></strong>
 
 # 👩‍💻Topic
-<h4>반려 동물의 혈당 데이터를 통한 사료 추천 시스템</h4>
+<h2>반려 동물의 혈당 데이터를 통한 사료 추천 시스템</h2>
 
 # ✨Medium
 
@@ -17,7 +17,7 @@ Splash Screen|Home Page|
 -------------|---------|
 <img width="300" alt="d" src="https://www.imageconvert.org/uploads/splash_gif1691070542.gif">|<img width="300" alt="d" src="https://www.imageconvert.org/uploads/home_gif1691073364.gif">|
 
-Pet Infomation Page|Notification page|
+Pet Information Page|Notification page|
 -------------------|-----------------|
 <img width="300" alt="d" src="https://www.imageconvert.org/uploads/%20%EC%84%A0%ED%83%9D_gif1691070315.gif">|<img width="300" alt="d" src="https://www.imageconvert.org/uploads/_gif1691071136.gif">|
 
