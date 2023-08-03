@@ -5,7 +5,7 @@
 <h4>반려 동물의 혈당 데이터를 통한 사료 추천 시스템</h4>
 
 ## ✨Medium
-<br>
+
 - [미디움 닷컴_임지훈](https://medium.com/@ljh01051826177/fit-a-pet-ba7eb469753c)<br>
 - [미디움 닷컴_전서진](https://medium.com/@chsg0321/fit-a-pet-aee8d4b6a3f4)
 
