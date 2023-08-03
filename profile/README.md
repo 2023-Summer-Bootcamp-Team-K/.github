@@ -11,7 +11,7 @@
 - [미디움 닷컴_전서진](https://medium.com/@chsg0321/fit-a-pet-aee8d4b6a3f4)
 
 ## 🎥 Demo
-(렉 걸림X 영상 편집중 -> 계속 해보는중, 근데 왜 사이즈 각각 안맞냐....하..) -> gif -> src 변환필요
+(렉 걸림X 영상 편집중 -> 계속 해보는중, 근데 왜 사이즈 각각 안맞냐....하..) -> gif -> src 변환필요 
 
 - [YouTube](https://www.youtube.com/watch?v=xbX8Dx5u6nE) <br>
 
@@ -19,11 +19,10 @@ Splash Screen|
 -------------|
 ![최종데모영상_AdobeExpress](https://github.com/2023-Summer-Bootcamp-Team-K/.github/assets/127572801/718692fe-d7aa-448c-b6d0-aa364a5796e9)|
 
-Pet Infomation Page|Pet Create Page|
--------------------|---------------|
- <img width="300" alt="d" src="https://www.imageconvert.org/uploads/pet_info1691068229.gif">|  <img width="300" alt="d" src="https://www.imageconvert.org/uploads/pet_create1691068632.gif">  |
+Pet Infomation Page|
+-------------------|
+ <img width="300" alt="d" src="https://www.imageconvert.org/uploads/%20%EC%84%A0%ED%83%9D_gif1691070315.gif">|
 
-https://www.imageconvert.org/uploads/pet_info1691068229.gif
 
 
 ## 📐 System Architecture
