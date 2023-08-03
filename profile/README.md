@@ -21,7 +21,7 @@ Splash Screen|
 
 Home Page|
 -------------------|
-<img width="300" alt="d" src=>|
+<img width="300" alt="d" src="https://www.imageconvert.org/uploads/home_gif1691073364.gif">|
 
 Pet Infomation Page|
 -------------------|
@@ -33,8 +33,7 @@ Alarm page|
 
 Chart page|
 ----------|
-<img width="300" alt="d" src="https://www.imageconvert.org/uploads/9%EC%B4%881691072735.gif">|
-
+<img width="300" alt="chart" src="https://www.imageconvert.org/uploads/chart_gif1691071450.gif">|
 
 
 ## 📐 System Architecture
