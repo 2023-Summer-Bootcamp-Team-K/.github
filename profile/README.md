@@ -19,9 +19,9 @@ Splash Screen|
 -------------|
 ![핏어펫_데모영상_AdobeExpress](https://github.com/2023-Summer-Bootcamp-Team-K/.github/assets/127572801/e00b52af-4413-40d8-b739-4e6f839239d5)|
 
-Pet Infomation Page|
--------------------|
-![핏어펫_데모영상_AdobeExpress (1)](https://github.com/2023-Summer-Bootcamp-Team-K/.github/assets/127572801/d1702fc7-6f25-4c6a-9e6d-3915b97a733d)|
+Pet Infomation Page|Pet Create Page|
+-------------------|-------------------|
+![핏어펫_데모영상_AdobeExpress (1)](https://github.com/2023-Summer-Bootcamp-Team-K/.github/assets/127572801/d1702fc7-6f25-4c6a-9e6d-3915b97a733d)| |
 
 
 
