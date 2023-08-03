@@ -1,7 +1,4 @@
-# 🐶 Project Name 
-<h3><strong> Fit-A-Pet <br></strong></h3>
-
-# 👩‍💻Topic
+# 🐶 Fit-A-Pet
 <h4>반려 동물의 혈당 데이터를 통한 사료 추천 시스템<br></strong></h4>
 
 # ✨Medium
