@@ -11,7 +11,7 @@
 - [미디움 닷컴_전서진](https://medium.com/@chsg0321/fit-a-pet-aee8d4b6a3f4)
 
 ## 🎥 Demo
-(렉안걸리게 계속 해보는중, 근데 왜 사이즈 각각 안맞냐....하..)
+(렉 걸리지 않게 계속 해보는중, 근데 왜 사이즈 각각 안맞냐....하..)
 
 
 - [YouTube](https://www.youtube.com/watch?v=xbX8Dx5u6nE) <br>
