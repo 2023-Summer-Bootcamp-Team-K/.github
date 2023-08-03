@@ -124,7 +124,7 @@ Leader, Back-end Developer, DevOps|Back-end Developer, DevOps|Back-end Developer
 $ git clone https://github.com/2023-Summer-Bootcamp-Team-K/docker.git
 ```
 
-#### 애플리케이션 실행
+#### Emulator 실행
 ```bash
 $ cd docker/frontend
 $ flutter pub get
@@ -132,18 +132,30 @@ $ flutter doctor
 $ flutter run
 ```
 
-#### 서버 시작하기
+#### Backend 환경변수 설정
 
-Backend config/.env
+Backend backend/.env
 ```bash
-DJANGO SECRET KEY=
-DJANGO_PASSWORD=
+DB_NAME =
+DB_USER =
+DB_PASSWORD = 
+DB_HOST = 
+
+AMAZON_ACCESS_KEY = 
+AMAZON_SECRET_ACCESS_KEY =
+
+SECRET_KEY = 
+
+LIBRE_ID = 
+LIBRE_PASSWORD =
+
+GOOGLE_ID = 
+GOOGLE_PASSWORD = 
 ```
 
 #### 개발 서버
 ```bash
-$ git submodule update --recursive --remote --init 
-$ docker-compose -f docker-compose-dev.yml up -d
+$ docker-compose up --d
 ```
 <!--
 
