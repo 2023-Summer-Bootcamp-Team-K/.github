@@ -11,10 +11,10 @@
 - [미디움 닷컴_전서진](https://medium.com/@chsg0321/fit-a-pet-aee8d4b6a3f4)
 
 ## 🎥 Demo
-- [유튜브](https://www.youtube.com/watch?v=xbX8Dx5u6nE) 
+- [YouTube](https://www.youtube.com/watch?v=xbX8Dx5u6nE) 
 
-- Splash Screen<br>
-![splash](https://github.com/2023-Summer-Bootcamp-Team-K/.github/assets/127572801/53df012f-a147-4e75-bd0f-839160416968))
+- Splash Screen <br>
+![splash](https://github.com/2023-Summer-Bootcamp-Team-K/.github/assets/127572801/53df012f-a147-4e75-bd0f-839160416968)
 
 ## 📐 System Architecture
 ![시스템 아키텍쳐](https://github.com/2023-Summer-Bootcamp-Team-K/.github/assets/127572801/cb5102f7-111d-425c-9885-20eeed208a7d)
