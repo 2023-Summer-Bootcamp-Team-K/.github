@@ -21,8 +21,9 @@ Splash Screen|
 
 Pet Infomation Page|Pet Create Page|
 -------------------|---------------|
-![핏어펫_데모영상_AdobeExpress (1)](https://github.com/2023-Summer-Bootcamp-Team-K/.github/assets/127572801/d1702fc7-6f25-4c6a-9e6d-3915b97a733d)|![핏어펫_데모영상_AdobeExpress](https://github.com/2023-Summer-Bootcamp-Team-K/.github/assets/127572801/f178e320-41ca-48da-abda-bea1240ce32a)|
+ <img width="470" alt="d" src="https://www.imageconvert.org/uploads/pet_info1691068229.gif">|  <img width="470" alt="d" src="https://www.imageconvert.org/uploads/_%EB%8D%B0%EB%AA%A8%EC%98%81%EC%83%81_AdobeExpress1691067863.gif"> |
 
+https://www.imageconvert.org/uploads/pet_info1691068229.gif
 
 
 ## 📐 System Architecture
