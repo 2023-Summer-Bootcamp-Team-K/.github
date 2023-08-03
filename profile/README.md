@@ -13,14 +13,17 @@
 ## 🎥 Demo
 (렉 걸림X 영상 뽑는중 -> 계속 해보는중, 근데 왜 사이즈 각각 안맞냐....하..)
 
-
 - [YouTube](https://www.youtube.com/watch?v=xbX8Dx5u6nE) <br>
 
-- Splash Screen <br>
-![splash](https://github.com/2023-Summer-Bootcamp-Team-K/.github/assets/127572801/53df012f-a147-4e75-bd0f-839160416968)
+Splash Screen|
+-------------|
+![핏어펫_데모영상_AdobeExpress](https://github.com/2023-Summer-Bootcamp-Team-K/.github/assets/127572801/e00b52af-4413-40d8-b739-4e6f839239d5)|
 
-- Pet Infomation Page <br>
-![핏어펫_데모영상_AdobeExpress (1)](https://github.com/2023-Summer-Bootcamp-Team-K/.github/assets/127572801/d1702fc7-6f25-4c6a-9e6d-3915b97a733d)
+Pet Infomation Page|
+-------------------|
+![핏어펫_데모영상_AdobeExpress (1)](https://github.com/2023-Summer-Bootcamp-Team-K/.github/assets/127572801/d1702fc7-6f25-4c6a-9e6d-3915b97a733d)|
+
+
 
 ## 📐 System Architecture
 ![시스템 아키텍쳐](https://github.com/2023-Summer-Bootcamp-Team-K/.github/assets/127572801/cb5102f7-111d-425c-9885-20eeed208a7d)
