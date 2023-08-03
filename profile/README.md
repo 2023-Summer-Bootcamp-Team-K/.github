@@ -23,6 +23,10 @@ Pet Infomation Page|
 -------------------|
  <img width="300" alt="d" src="https://www.imageconvert.org/uploads/%20%EC%84%A0%ED%83%9D_gif1691070315.gif">|
 
+ 
+Alarm page|
+----------|
+ <img width="300" alt="d" src="https://www.imageconvert.org/uploads/_gif1691070712.gif">|
 
 
 ## 📐 System Architecture
