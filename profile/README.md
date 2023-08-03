@@ -17,12 +17,12 @@ Splash Screen|Home Page|
 -------------|---------|
 <img width="300" alt="d" src="https://www.imageconvert.org/uploads/splash_gif1691070542.gif">|<img width="300" alt="d" src="https://www.imageconvert.org/uploads/home_gif1691073364.gif">|
 
-Pet Infomation Page|notification page|
+Pet Infomation Page|Notification page|
 -------------------|-----------------|
 <img width="300" alt="d" src="https://www.imageconvert.org/uploads/%20%EC%84%A0%ED%83%9D_gif1691070315.gif">|<img width="300" alt="d" src="https://www.imageconvert.org/uploads/_gif1691071136.gif">|
 
-Chart page|Feed Recommendation Page|
-----------|------------------------|
+Chart Analysis page|Feed Recommendation Page|
+-------------------|------------------------|
 <img width="300" alt="chart" src="https://www.imageconvert.org/uploads/chart_gif1691071450.gif">|<img width="300" alt="chart" src="https://www.imageconvert.org/uploads/_gif1691075403.gif">|
 
 
