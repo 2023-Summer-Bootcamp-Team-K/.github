@@ -17,7 +17,7 @@
 
 Splash Screen|
 -------------|
-![최종데모영상_AdobeExpress](https://github.com/2023-Summer-Bootcamp-Team-K/.github/assets/127572801/718692fe-d7aa-448c-b6d0-aa364a5796e9)|
+ <img width="300" alt="d" src="https://www.imageconvert.org/uploads/splash_gif1691070542.gif">|
 
 Pet Infomation Page|
 -------------------|
