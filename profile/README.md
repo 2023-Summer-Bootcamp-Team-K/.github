@@ -26,7 +26,10 @@ Pet Infomation Page|
  
 Alarm page|
 ----------|
-<img width="300" alt="d" src="https://www.imageconvert.org/uploads/_gif%20(1)1691070902.gif">|
+<img width="300" alt="d" src="https://www.imageconvert.org/uploads/_gif1691071136.gif">|
+
+
+https://www.imageconvert.org/uploads/_gif1691071136.gif
 
 ## 📐 System Architecture
 ![시스템 아키텍쳐](https://github.com/2023-Summer-Bootcamp-Team-K/.github/assets/127572801/cb5102f7-111d-425c-9885-20eeed208a7d)
