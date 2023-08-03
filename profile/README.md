@@ -17,7 +17,7 @@
 
 Splash Screen|
 -------------|
-![splash](https://github.com/2023-Summer-Bootcamp-Team-K/.github/assets/127572801/53df012f-a147-4e75-bd0f-839160416968)|
+![최종데모영상_AdobeExpress](https://github.com/2023-Summer-Bootcamp-Team-K/.github/assets/127572801/718692fe-d7aa-448c-b6d0-aa364a5796e9)|
 
 Pet Infomation Page|Pet Create Page|
 -------------------|---------------|
