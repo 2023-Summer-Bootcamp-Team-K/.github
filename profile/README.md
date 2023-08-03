@@ -127,13 +127,13 @@ $ git clone https://github.com/2023-Summer-Bootcamp-Team-K/docker.git
 #### Emulator 실행
 ```bash
 $ cd docker/frontend
+$ open -a simulator
 $ flutter pub get
 $ flutter doctor
 $ flutter run
 ```
 
 #### Backend 환경변수 설정
-
 backend/.env
 ```bash
 DB_NAME =
@@ -159,7 +159,6 @@ $ docker-compose up --d
 ```
 
 ## 📂 Directory Structure
-
 <details>
 <summary>자세히 보기(Frontend)</summary>
 <div>
@@ -326,13 +325,3 @@ $ docker-compose up --d
  ┣ 📜manage.py
  ┗ 📜requirements.txt
 ```
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
