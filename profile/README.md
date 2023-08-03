@@ -11,8 +11,8 @@
 - [미디움 닷컴_전서진](https://medium.com/@chsg0321/fit-a-pet-aee8d4b6a3f4)
 
 ## 🎥 Demo
-- [유튜브](https://www.youtube.com/watch?v=xbX8Dx5u6nE)
-
+- [유튜브](https://www.youtube.com/watch?v=xbX8Dx5u6nE) 
+<br>
 - Splash Screen
 ![splash](https://github.com/2023-Summer-Bootcamp-Team-K/.github/assets/127572801/53df012f-a147-4e75-bd0f-839160416968)
 
