@@ -16,7 +16,7 @@ Splash Screen|Home Page|
 
 Pet Information Page|Notification page|
 -------------------|-----------------|
-<img width="300" alt="Pet Information" src=https://miro.medium.com/v2/resize:fit:548/1*_m_r3b6GZyZoNYc_SLeJjg.gif">|<img width="300" alt="Notification" src="https://miro.medium.com/v2/resize:fit:548/0*leM_EIZVmnAQye1l.gif">|
+<img width="300" alt="Pet Information" src="https://miro.medium.com/v2/resize:fit:548/1*_m_r3b6GZyZoNYc_SLeJjg.gif">|<img width="300" alt="Notification" src="https://miro.medium.com/v2/resize:fit:548/0*leM_EIZVmnAQye1l.gif">|
 
 Chart Analysis page|Feed Recommendation Page|
 -------------------|------------------------|
