@@ -8,7 +8,7 @@
 
 # 🎥 Demo
 
-- [YouTube](https://www.youtube.com/watch?v=xbX8Dx5u6nE) <br>
+- [YouTube](https://youtu.be/VnJvDlnPRvQ) <br>
 
 Splash Screen|Home Page|
 -------------|---------|
