@@ -12,7 +12,7 @@
 
 Splash Screen|Home Page|
 -------------|---------|
-<img width="300" alt="Splash" src="https://miro.medium.com/v2/resize:fit:548/0*gBQ0wUPCyV80e_r6.gif">|<img width="300" alt="Home" src="https://www.imageconvert.org/uploads/home_gif1691132157.gif">|
+<img width="300" alt="Splash" src="https://miro.medium.com/v2/resize:fit:548/0*gBQ0wUPCyV80e_r6.gif">|<img width="300" alt="Home" src="https://miro.medium.com/v2/resize:fit:640/0*W0FONI9wXKAfhU6w">|
 
 Pet Information Page|Notification page|
 -------------------|-----------------|
