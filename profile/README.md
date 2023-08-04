@@ -12,7 +12,7 @@
 
 Splash Screen|Home Page|
 -------------|---------|
-<img width="300" alt="d" src="https://www.imageconvert.org/uploads/splash_gif1691130072.gif">|<img width="300" alt="d" src="https://www.imageconvert.org/uploads/home_gif1691073364.gif">|
+<img width="300" alt="d" src="https://www.imageconvert.org/uploads/splash_gif1691130072.gif">|<img width="300" alt="d" src="https://www.imageconvert.org/uploads/home_gif1691132157.gif">|
 
 Pet Information Page|Notification page|
 -------------------|-----------------|
