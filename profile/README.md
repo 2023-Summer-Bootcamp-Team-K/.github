@@ -20,7 +20,7 @@ Pet Information Page|Notification page|
 
 Chart Analysis page|Feed Recommendation Page|
 -------------------|------------------------|
-<img width="300" alt="chart" src="https://www.imageconvert.org/uploads/chart_gif1691130301.gif">|<img width="300" alt="chart" src="https://www.imageconvert.org/uploads/_gif1691075403.gif">|
+<img width="300" alt="chart" src="https://www.imageconvert.org/uploads/chart_gif1691130301.gif">|<img width="300" alt="chart" src="https://www.imageconvert.org/uploads/_gif1691132253.gif">|
 
 
 # 📐 System Architecture
