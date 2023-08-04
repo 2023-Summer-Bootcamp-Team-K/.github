@@ -12,7 +12,7 @@
 
 Splash Screen|Home Page|
 -------------|---------|
-<img width="300" alt="Splash" src="https://miro.medium.com/v2/resize:fit:548/0*gBQ0wUPCyV80e_r6.gif">|<img width="300" alt="Home" src="https://miro.medium.com/v2/resize:fit:640/0*W0FONI9wXKAfhU6w">|
+<img width="300" alt="Splash" src="https://miro.medium.com/v2/resize:fit:548/0*gBQ0wUPCyV80e_r6.gif">|<img src="https://github.com/2023-Summer-Bootcamp-Team-K/.github/assets/127572801/3d3d59b8-3254-4c67-9e9e-c63c91639b26" width="300">|
 
 Pet Information Page|Notification page|
 -------------------|-----------------|
