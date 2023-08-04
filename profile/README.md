@@ -12,15 +12,15 @@
 
 Splash Screen|Home Page|
 -------------|---------|
-<img width="300" alt="d" src="https://www.imageconvert.org/uploads/splash_gif1691130072.gif">|<img width="300" alt="d" src="https://www.imageconvert.org/uploads/home_gif1691132157.gif">|
+<img width="300" alt="Splash" src="https://miro.medium.com/v2/resize:fit:548/0*gBQ0wUPCyV80e_r6.gif">|<img width="300" alt="Home" src="https://www.imageconvert.org/uploads/home_gif1691132157.gif">|
 
 Pet Information Page|Notification page|
 -------------------|-----------------|
-<img width="300" alt="d" src="https://www.imageconvert.org/uploads/%20%EC%84%A0%ED%83%9D_gif1691130142.gif">|<img width="300" alt="d" src="https://www.imageconvert.org/uploads/_gif1691130206.gif">|
+<img width="300" alt="Pet Information" src=https://miro.medium.com/v2/resize:fit:548/1*_m_r3b6GZyZoNYc_SLeJjg.gif">|<img width="300" alt="Notification" src="https://miro.medium.com/v2/resize:fit:548/0*leM_EIZVmnAQye1l.gif">|
 
 Chart Analysis page|Feed Recommendation Page|
 -------------------|------------------------|
-<img width="300" alt="chart" src="https://www.imageconvert.org/uploads/chart_gif1691130301.gif">|<img width="300" alt="chart" src="https://www.imageconvert.org/uploads/_gif1691132253.gif">|
+<img width="300" alt="chart" src="https://miro.medium.com/v2/resize:fit:548/1*OmpekPAXGgCRR9_EXSVA2A.gif">|<img width="300" alt="Feed Recommendation" src="https://miro.medium.com/v2/resize:fit:548/0*sJAMT7RLlTBOT7FT.gif">|
 
 
 # 📐 System Architecture
